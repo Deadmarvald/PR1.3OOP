@@ -1,0 +1,11 @@
+﻿  UT1.3.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(137,29): error C2676: binary '==': 'const T' does not define this operator or a conversion to a type acceptable to the predefined operator
+          with
+          [
+              T=Money
+          ]
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.3\UT1.3\UT1.3.cpp(23): message : see reference to function template instantiation 'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual<Money>(const T &,const T &,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)' being compiled
+          with
+          [
+              T=Money
+          ]

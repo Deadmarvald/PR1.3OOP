@@ -1,0 +1,10 @@
+﻿  Money.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.3\PR1.3\Money.cpp(66,24): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.3\PR1.3\Money.cpp(79,17): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.3\PR1.3\Money.cpp(80,17): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.3\PR1.3\Money.cpp(90,16): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.3\PR1.3\Money.cpp(91,16): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  Source.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.3\PR1.3\Source.cpp(10,20): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  PR1.3.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.3\Debug\PR1.3.exe
